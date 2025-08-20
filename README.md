@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Rahul Pratap Singh</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com/Backend+Developer;Data+Structure+Algorithm=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+<h2 align="center">Hi 👋, I'm Rahul Pratap Singh</h2>
 <h3 align="center">Backend Developer | DSA Enthusiast | Aspiring System Designer</h3>
 
 ---

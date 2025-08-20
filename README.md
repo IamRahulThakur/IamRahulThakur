@@ -7,7 +7,7 @@
 ### 🚀 About Me
 - 🔭 Currently working on **scalable backend systems & real-time applications**
 - 🌱 Learning **System Design + DSA**
-- 💬 Ask me about **Node.js, Express, Databases, Recursion, Data Structure Algorithms**
+- 💬 Ask me about **Node.js, Express, Databases,  Data Structure Algorithms**
 - 📫 Reach me at: **ace.rahulthakur@gmail.com**
 
 ---

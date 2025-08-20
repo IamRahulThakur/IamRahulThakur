@@ -32,7 +32,7 @@
 
 ### 📊LeetCode Stats
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/thakurrahuljadaun?theme=dark&font=Baloo&ext=heatmap" alt="LeetCode Stats"/>
+  <img src="https://leetcard.jacoblin.cool/thakurrahuljadaun?theme=dark&font=Baloo&ext=heatmap" alt="LeetCode Heatmap"/>
 </p>
 
 ---

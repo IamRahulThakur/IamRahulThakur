@@ -1,11 +1,13 @@
-<p align="center">
+<div align="center">
+
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&width=600&lines=Backend+Developer;Data+Structure+Algorithm;Problem+Solver" alt="Typing SVG" />
   </a>
-</p>
 
-<h2 align="center">Hi 👋, I'm Rahul Pratap Singh</h2>
-<h3 align="center">Backend Developer | DSA Enthusiast | Aspiring System Designer</h3>
+  <h2>Hi 👋, I'm Rahul Pratap Singh</h2>
+  <h3>Backend Developer | DSA Enthusiast | Aspiring System Designer</h3>
+
+</div>
 
 
 ---
